@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+[Bb]in/
+[Oo]bj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# SQL Server
+*.mdf
+*.ldf
+*.ndf
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
